@@ -109,7 +109,7 @@ const Container = styled.div`
   align-items: center;
   flex-direction: column;
   gap: 3rem;
-  background-color: #131324;
+  background-color: #660000;
   height: 100vh;
   width: 100vw;
 
@@ -140,11 +140,11 @@ const Container = styled.div`
       }
     }
     .selected {
-      border: 0.4rem solid #4e0eff;
+      border: 0.4rem solid #DC566C;
     }
   }
   .submit-btn {
-    background-color: #4e0eff;
+    background-color: #DC566C;
     color: white;
     padding: 1rem 2rem;
     border: none;
@@ -154,7 +154,7 @@ const Container = styled.div`
     font-size: 1rem;
     text-transform: uppercase;
     &:hover {
-      background-color: #4e0eff;
+      background-color: #f0b2bc;
     }
   }
 `;
