@@ -1,5 +1,12 @@
 # ChatApp using React
 
+
+<div align="center">
+
+### ❤️ Hosted at [ZeroChat](https://zerojaychat.web.app/) 🥰
+
+</div>
+
 ```
 cd public
 npm install
