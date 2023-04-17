@@ -3,20 +3,14 @@
 
 <div align="center">
 
-### ❤️ Hosted at [ZeroChat](https://zerojaychat.web.app/) 🥰
+### ❤️ Hosted at [ZeroChat](https://jayeshbhushan.me/) 🥰
 
 </div>
 
 ```
-cd public
 npm install
-npm start
+npm run dev
 ```
+![image](https://user-images.githubusercontent.com/68821643/232539460-a15e7906-db31-4a8e-b158-e574a80e14bb.png)
+![image](https://user-images.githubusercontent.com/68821643/232539585-0a74e389-f895-4108-b8d0-3e1b9c8cc231.png)
 
-```
-cd server
-npm install
-npm start
-```
-
-![image](https://user-images.githubusercontent.com/68821643/204076279-1c1d484b-1db0-4281-b047-d793838c3d2a.png)
